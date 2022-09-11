@@ -8,7 +8,7 @@ Aspiring Full Stack Developer
 * 🖥️  See my portfolio at [My Portfolio](http://www.compsci.live)
 * ✉️  You can contact me at [brendan.klein99@gmail.com](mailto:brendan.klein99@gmail.com)
 * 🚀  I'm currently working on [Gigabites](http://www.gigabites.org)
-* 🧠  I'm learning MERN
+* 🧠  I'm learning MERN, JavaScript, and React
 
 <a href="https://www.github.com/bdk99" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bdk99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
