@@ -7,7 +7,6 @@ Aspiring Full Stack Developer
 * 🌍  I'm based in Ann Arbor, MI
 * 🖥️  See my portfolio at [My Portfolio](http://www.brendanklein.org)
 * ✉️  You can contact me at [brendan.klein99@gmail.com](mailto:brendan.klein99@gmail.com)
-* 🚀  I'm currently working on [Gigabites](http://www.gigabites.org)
 * 🧠  I'm learning MERN, JavaScript, and React
 
 <a href="https://www.github.com/bdk99" target="_blank" rel="noreferrer"><img
